@@ -1,0 +1,13 @@
+[package]
+name = "Latency"
+path = "package"
+version = "0.0.1"
+author = "DotZZ"
+description = "Latency adds a `/latency` command that displays the bot's latency."
+
+[appearance]
+color = "03BAFC"
+thumbnail = "https://i.imgur.com/uKfx0qO.png"
+
+[files]
+exclude = ["INFO.md"]
